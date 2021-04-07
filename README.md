@@ -14,7 +14,7 @@ Before the config file is generated, you must run the game with the mod installe
 
 ## Main Toggles;
 | Config Option | Type | Default Value | Description |
-|:-------------:|:-----------:|:-----------:|:-----------|
+|:---------:|:-----------:|:-----------:|:-----------|
 | Enable Mod | bool | true | Enable or disable the mod |
 | Show Bench Level On Hover | bool | true | Show the bench level on hover |
 | Hide Hover Level On Child Stations | bool | true | Hides the level hover on Artisan Stations, Stonecutters and Cauldrons since they can't go past level 1 (Left this as an option incase these stations get levels in the future) |
@@ -59,5 +59,14 @@ If you have any suggestions, feel free to let me know!
 
 ## Changelog
 
-#### v1.0;
+#### v1.0.1;
+* Fixed version numbers
+* Readme Update
+
+#### v1.0.0;
 * Initial Upload
+
+[Discord Support](https://discord.gg/pTGSu8R7DW)
+
+## Affiliate Link
+<a href="https://zap-hosting.com/a/3b7ec5e8e178b1225b63fbeced07c07052e0425b"><img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=99492" alt="ZAP-Hosting Gameserver and Webhosting"></a>
